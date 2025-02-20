@@ -6,4 +6,4 @@
 ## 💻 Tech & Tools  
 - **Programming:** Python, C++, MATLAB  
 - **CAD & Simulation:** PTC Creo, SolidWorks, Fusion 360  
-- **Other:** Git, Linux, LaTeX  
+- **Other:** LaTeX  
